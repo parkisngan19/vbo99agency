@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+vbo99agency
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`VBO99 <https://vbo99.agency/>`_ top đầu nhà cái cá cược online tại thị trường Châu Á và Việt Nam. Nhà cái uy tín, xanh chín minh bạch đề điều khoản cũng như hợp pháp tại thị trường cá cược. Tham gia vbo99 người chơi trải nghiêm đầy đủ các thể loại cá cược online từ thể thao, game bài, đổi thưởng, bắn cá, nổ hũ. Tải app vbo99 nhận ưu đãi hấp dẫn từ nhà cái.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 16 Đ. Lê Văn Quới, Bình Hưng Hoà A, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0317798865. 
 
-Contents
---------
+Email: info@vbo99.agency. 
 
-.. toctree::
+Website: https://vbo99.agency/ 
 
-   usage
-   api
+#vbo99 #vbo99agency #nhacaivbo99
